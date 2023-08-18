@@ -89,12 +89,12 @@ const aboutMe = {
 
 ---
 
-### :octocat: Github Stats:
+### :octocat: GitHub Stats:
 
 <table>
   <tr>
-    <td valign="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=adriansunye&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriansunye&theme=radical&card_width=450em)](https://github.com/adriansunye/adriansunye/github-readme-stats"/></td>
+    <td valign="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=OksanaFedyukova&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OksanaFedyukova&theme=radical&card_width=450em)](https://github.com/OksanaFedyukova/OksanaFedyukova/github-readme-stats"/></td>
   </tr>
 </table>
 
